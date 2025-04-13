@@ -1,6 +1,6 @@
-# MomentaryAI
+# MomentarySearch
 
-MomentaryAI is an ephemeral AI assistant that provides instant, context-aware answers by retrieving and processing real-time web information. It leverages live search results to deliver up-to-the-minute accuracy, without storing user data or retaining long-term memory.
+MomentarySearch is an ephemeral AI assistant that provides instant, context-aware answers by retrieving and processing real-time web information. It leverages live search results to deliver up-to-the-minute accuracy, without storing user data or retaining long-term memory.
 
 ## Features
 
