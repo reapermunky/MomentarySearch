@@ -3,7 +3,7 @@
 MomentarySearch is an ephemeral AI assistant that provides instant, context-aware answers by retrieving and processing real-time web information. It leverages live search results to deliver up-to-the-minute accuracy, without storing user data or retaining long-term memory.
 
 #### Note:
-MomentarySearch is not just a lightweight search assistant. It represents an alternate model for AI itself - ephemeral, stateless, and privacy-native by architecture. In a world increasingly driven by centralized, memory-hoarding models, MomentarySearch demonstrates that real-time intelligence can be achieved without surveillance, without bloat, and without permanent data retention. This is a small project — but it points toward a different future for AI.
+MomentarySearch is not just a lightweight search assistant. It represents an alternate model for AI itself - ephemeral, stateless, and privacy-native by architecture. In a world increasingly driven by centralized, memory-hoarding models, MomentarySearch demonstrates that real-time intelligence can be achieved without surveillance, without bloat, and without permanent data retention. This is a small project - but it points toward a different future for AI.
 
 
 ## Features
